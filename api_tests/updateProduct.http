@@ -1,0 +1,7 @@
+PUT http://localhost:3000/api/products/update/684ed5142db900f462407611
+Content-Type: application/json
+
+{
+  "name": "New shawama",
+  "price": 8.99
+}

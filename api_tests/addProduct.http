@@ -1,0 +1,8 @@
+POST localhost:3000/api/products/add
+Content-Type: application/json
+
+{
+  "name": "shawama",
+  "quantity": 3,
+  "price": 4.99
+}
